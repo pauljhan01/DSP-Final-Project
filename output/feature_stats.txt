@@ -1,298 +1,286 @@
-Mean of age is  59.43702637575916
-Median of age is  64.0
-Standard Deviation of age is  20.956281167276043
+Mean of age is  62.320265393128565
+Median of age is  65.0
+Standard Deviation of age is  16.586352893173345
 
-Mean of bmi is  28.09460738447636
-Median of bmi is  27.37499672
-Standard Deviation of bmi is  9.827264596463628
+Mean of bmi is  29.203085586226106
+Median of bmi is  27.7102595
+Standard Deviation of bmi is  8.203153622500682
 
 Mean of elective_surgery is  0.18373622060122338
 Median of elective_surgery is  0.0
 Standard Deviation of elective_surgery is  0.3872710383527484
 
-Mean of height is  167.1740873158658
-Median of height is  170.0
-Standard Deviation of height is  22.96413950815336
+Mean of height is  169.6398803332134
+Median of height is  170.1
+Standard Deviation of height is  10.75528220401083
 
 Mean of pre_icu_los_days is  0.835766050667986
 Median of pre_icu_los_days is  0.138888889
 Standard Deviation of pre_icu_los_days is  2.4877561731500593
 
-Mean of weight is  81.53624916860205
-Median of weight is  79.5
-Standard Deviation of weight is  28.46435576292045
+Mean of weight is  84.07991266232705
+Median of weight is  80.5
+Standard Deviation of weight is  24.848477795360395
 
-Mean of apache_2_diagnosis is  182.04193516731544
-Median of apache_2_diagnosis is  122.0
-Standard Deviation of apache_2_diagnosis is  88.78174102384105
+Mean of apache_2_diagnosis is  185.38303184935614
+Median of apache_2_diagnosis is  123.0
+Standard Deviation of apache_2_diagnosis is  85.66419809786872
 
-Mean of apache_3j_diagnosis is  551.5150775789692
-Median of apache_3j_diagnosis is  407.01
-Standard Deviation of apache_3j_diagnosis is  464.47362045764476
+Mean of apache_3j_diagnosis is  558.0612432261512
+Median of apache_3j_diagnosis is  409.02
+Standard Deviation of apache_3j_diagnosis is  461.8850684740674
 
 Mean of apache_post_operative is  0.20110562297602302
 Median of apache_post_operative is  0.0
 Standard Deviation of apache_post_operative is  0.4008290199013954
 
-Mean of arf_apache is  0.027760513776672883
+Mean of arf_apache is  0.02798948894922203
 Median of arf_apache is  0.0
-Standard Deviation of arf_apache is  0.16428682826358418
+Standard Deviation of arf_apache is  0.16463108676492982
 
-Mean of gcs_eyes_apache is  3.3932266963244033
+Mean of gcs_eyes_apache is  3.4652393880911103
 Median of gcs_eyes_apache is  4.0
-Standard Deviation of gcs_eyes_apache is  1.0633433417955662
+Standard Deviation of gcs_eyes_apache is  0.9468631504552146
 
-Mean of gcs_motor_apache is  5.357790062477512
+Mean of gcs_motor_apache is  5.472234034433504
 Median of gcs_motor_apache is  6.0
-Standard Deviation of gcs_motor_apache is  1.4943611915575474
+Standard Deviation of gcs_motor_apache is  1.2809483052826494
 
-Mean of gcs_unable_apache is  0.009420692813450655
+Mean of gcs_unable_apache is  0.00949156608114444
 Median of gcs_unable_apache is  0.0
-Standard Deviation of gcs_unable_apache is  0.09660251090454323
+Standard Deviation of gcs_unable_apache is  0.09677882901284403
 
-Mean of gcs_verbal_apache is  3.9119754015243204
+Mean of gcs_verbal_apache is  3.99418839204911
 Median of gcs_verbal_apache is  5.0
-Standard Deviation of gcs_verbal_apache is  1.6454752286000631
+Standard Deviation of gcs_verbal_apache is  1.5517979313839378
 
-Mean of heart_rate_apache is  98.75339373916457
+Mean of heart_rate_apache is  99.71346483050385
 Median of heart_rate_apache is  104.0
-Standard Deviation of heart_rate_apache is  32.220016190634375
+Standard Deviation of heart_rate_apache is  30.80195044274696
 
-Mean of intubated_apache is  0.15004415949756306
+Mean of intubated_apache is  0.15123264967888958
 Median of intubated_apache is  0.0
-Standard Deviation of intubated_apache is  0.35711664796929593
+Standard Deviation of intubated_apache is  0.3575691723029822
 
-Mean of map_apache is  87.06194323596436
-Median of map_apache is  66.0
-Standard Deviation of map_apache is  42.78583061921267
+Mean of map_apache is  88.0199262918016
+Median of map_apache is  67.0
+Standard Deviation of map_apache is  41.92154034398259
 
-Mean of resprate_apache is  25.463719429088567
+Mean of resprate_apache is  25.819634075867107
 Median of resprate_apache is  28.0
-Standard Deviation of resprate_apache is  15.296193223436708
+Standard Deviation of resprate_apache is  15.063358509502466
 
-Mean of temp_apache is  34.783398863847005
-Median of temp_apache is  36.4
-Standard Deviation of temp_apache is  7.5761798032475856
+Mean of temp_apache is  36.414157098775526
+Median of temp_apache is  36.5
+Standard Deviation of temp_apache is  0.826038357947232
 
-Mean of ventilated_apache is  0.32318210068365444
+Mean of ventilated_apache is  0.32588073664584083
 Median of ventilated_apache is  0.0
-Standard Deviation of ventilated_apache is  0.46769414739394316
+Standard Deviation of ventilated_apache is  0.4677433141680268
 
-Mean of d1_diasbp_max is  88.33266821497497
+Mean of d1_diasbp_max is  88.49604745237862
 Median of d1_diasbp_max is  86.0
-Standard Deviation of d1_diasbp_max is  20.132902557860884
+Standard Deviation of d1_diasbp_max is  19.789423020645955
 
-Mean of d1_diasbp_min is  50.071069532127396
+Mean of d1_diasbp_min is  50.1615365324436
 Median of d1_diasbp_min is  50.0
-Standard Deviation of d1_diasbp_min is  13.474335262093444
+Standard Deviation of d1_diasbp_min is  13.31232537024457
 
-Mean of d1_diasbp_noninvasive_max is  87.60569384929072
-Median of d1_diasbp_noninvasive_max is  86.0
-Standard Deviation of d1_diasbp_noninvasive_max is  21.803169551443844
+Mean of d1_diasbp_noninvasive_max is  88.6205717837166
+Median of d1_diasbp_noninvasive_max is  87.0
+Standard Deviation of d1_diasbp_noninvasive_max is  19.73423679013284
 
-Mean of d1_diasbp_noninvasive_min is  49.67285989990514
+Mean of d1_diasbp_noninvasive_min is  50.24629550881554
 Median of d1_diasbp_noninvasive_min is  50.0
-Standard Deviation of d1_diasbp_noninvasive_min is  14.292603753846672
+Standard Deviation of d1_diasbp_noninvasive_min is  13.301900865934599
 
-Mean of d1_heartrate_max is  102.83772202414052
+Mean of d1_heartrate_max is  102.9985280167479
 Median of d1_heartrate_max is  101.0
-Standard Deviation of d1_heartrate_max is  22.37730947101955
+Standard Deviation of d1_heartrate_max is  22.00893681419509
 
-Mean of d1_heartrate_min is  70.21066806232486
+Mean of d1_heartrate_min is  70.32149204583865
 Median of d1_heartrate_min is  69.0
-Standard Deviation of d1_heartrate_min is  17.329081562598986
+Standard Deviation of d1_heartrate_min is  17.108520102038923
 
-Mean of d1_mbp_max is  104.40030311951413
+Mean of d1_mbp_max is  104.64709474120353
 Median of d1_mbp_max is  102.0
-Standard Deviation of d1_mbp_max is  21.404617562480414
+Standard Deviation of d1_mbp_max is  20.794480236976266
 
-Mean of d1_mbp_min is  64.71624524331338
+Mean of d1_mbp_min is  64.86972403039918
 Median of d1_mbp_min is  64.0
-Standard Deviation of d1_mbp_min is  15.979156804371426
+Standard Deviation of d1_mbp_min is  15.670667027011838
 
-Mean of d1_mbp_noninvasive_max is  102.90378681321077
+Mean of d1_mbp_noninvasive_max is  104.63489908737039
 Median of d1_mbp_noninvasive_max is  102.0
-Standard Deviation of d1_mbp_noninvasive_max is  24.39659653394803
+Standard Deviation of d1_mbp_noninvasive_max is  20.628034830576336
 
-Mean of d1_mbp_noninvasive_min is  63.894267988180516
+Mean of d1_mbp_noninvasive_min is  64.95236226053014
 Median of d1_mbp_noninvasive_min is  64.0
-Standard Deviation of d1_mbp_noninvasive_min is  17.591780222135352
+Standard Deviation of d1_mbp_noninvasive_min is  15.639980837359582
 
-Mean of d1_resprate_max is  28.761527809579885
+Mean of d1_resprate_max is  28.889617611461844
 Median of d1_resprate_max is  26.0
-Standard Deviation of d1_resprate_max is  10.84152670577208
+Standard Deviation of d1_resprate_max is  10.701319867633867
 
-Mean of d1_resprate_min is  12.792352229236858
+Mean of d1_resprate_min is  12.844940193865646
 Median of d1_resprate_min is  13.0
-Standard Deviation of d1_resprate_min is  5.122091403818024
+Standard Deviation of d1_resprate_min is  5.059951009937678
 
-Mean of d1_spo2_max is  98.88149989641599
+Mean of d1_spo2_max is  99.24183049295084
 Median of d1_spo2_max is  100.0
-Standard Deviation of d1_spo2_max is  6.232045163216594
+Standard Deviation of d1_spo2_max is  1.7935860329524331
 
-Mean of d1_spo2_min is  90.12639429524712
+Mean of d1_spo2_min is  90.45372520798578
 Median of d1_spo2_min is  92.0
-Standard Deviation of d1_spo2_min is  11.394634556386755
+Standard Deviation of d1_spo2_min is  10.019499939943973
 
-Mean of d1_sysbp_max is  148.08257280865308
+Mean of d1_sysbp_max is  148.34098764624426
 Median of d1_sysbp_max is  146.0
-Standard Deviation of d1_sysbp_max is  26.441173992337685
+Standard Deviation of d1_sysbp_max is  25.722096246542865
 
-Mean of d1_sysbp_min is  96.75583614100509
+Mean of d1_sysbp_min is  96.92104717978913
 Median of d1_sysbp_min is  96.0
-Standard Deviation of d1_sysbp_min is  21.049796677079517
+Standard Deviation of d1_sysbp_min is  20.67084827288684
 
-Mean of d1_sysbp_noninvasive_max is  146.5756108730496
-Median of d1_sysbp_noninvasive_max is  145.0
-Standard Deviation of d1_sysbp_noninvasive_max is  30.018497496958222
+Mean of d1_sysbp_noninvasive_max is  148.256054212598
+Median of d1_sysbp_noninvasive_max is  146.0
+Standard Deviation of d1_sysbp_noninvasive_max is  25.728168452592396
 
-Mean of d1_sysbp_noninvasive_min is  95.9071841505566
-Median of d1_sysbp_noninvasive_min is  95.0
-Standard Deviation of d1_sysbp_noninvasive_min is  22.979682069368966
+Mean of d1_sysbp_noninvasive_min is  96.98749659263135
+Median of d1_sysbp_noninvasive_min is  96.0
+Standard Deviation of d1_sysbp_noninvasive_min is  20.65147420356409
 
-Mean of d1_temp_max is  36.33942201519959
-Median of d1_temp_max is  37.1
-Standard Deviation of d1_temp_max is  5.899283906737753
+Mean of d1_temp_max is  37.28365957563268
+Median of d1_temp_max is  37.11408
+Standard Deviation of d1_temp_max is  0.6903292604162876
 
-Mean of d1_temp_min is  35.349352468291734
+Mean of d1_temp_min is  36.262877346553275
 Median of d1_temp_min is  36.4
-Standard Deviation of d1_temp_min is  5.74708011743862
+Standard Deviation of d1_temp_min is  0.7514201846061178
 
-Mean of h1_diasbp_max is  72.38101468712178
-Median of h1_diasbp_max is  73.0
-Standard Deviation of h1_diasbp_max is  23.25407406742545
+Mean of h1_diasbp_max is  75.35306881249114
+Median of h1_diasbp_max is  74.0
+Standard Deviation of h1_diasbp_max is  18.2318525524776
 
-Mean of h1_diasbp_min is  60.358553313052674
-Median of h1_diasbp_min is  61.0
-Standard Deviation of h1_diasbp_min is  20.170672281562315
+Mean of h1_diasbp_min is  62.84448769531037
+Median of h1_diasbp_min is  62.0
+Standard Deviation of h1_diasbp_min is  16.212802134172918
 
-Mean of h1_diasbp_noninvasive_max is  69.7307470042415
-Median of h1_diasbp_noninvasive_max is  72.0
-Standard Deviation of h1_diasbp_noninvasive_max is  27.16311868808178
+Mean of h1_diasbp_noninvasive_max is  75.8380055172113
+Median of h1_diasbp_noninvasive_max is  74.0
+Standard Deviation of h1_diasbp_noninvasive_max is  18.12700068697362
 
-Mean of h1_diasbp_noninvasive_min is  58.20002616859115
-Median of h1_diasbp_noninvasive_min is  60.0
-Standard Deviation of h1_diasbp_noninvasive_min is  23.306282079468893
+Mean of h1_diasbp_noninvasive_min is  63.24347693347726
+Median of h1_diasbp_noninvasive_min is  62.0
+Standard Deviation of h1_diasbp_noninvasive_min is  16.101399578781027
 
-Mean of h1_heartrate_max is  89.42349503341947
-Median of h1_heartrate_max is  89.0
-Standard Deviation of h1_heartrate_max is  26.696136007671992
+Mean of h1_heartrate_max is  92.24496527209882
+Median of h1_heartrate_max is  90.0
+Standard Deviation of h1_heartrate_max is  21.661874634729315
 
-Mean of h1_heartrate_min is  81.11858733222117
-Median of h1_heartrate_min is  81.0
-Standard Deviation of h1_heartrate_min is  24.601249089825593
+Mean of h1_heartrate_min is  83.66967605464875
+Median of h1_heartrate_min is  82.0
+Standard Deviation of h1_heartrate_min is  20.126904494040847
 
-Mean of h1_mbp_max is  86.97901060918299
-Median of h1_mbp_max is  88.0
-Standard Deviation of h1_mbp_max is  28.343341745837584
+Mean of h1_mbp_max is  91.61580691941164
+Median of h1_mbp_max is  90.0
+Standard Deviation of h1_mbp_max is  20.284747392080718
 
-Mean of h1_mbp_min is  75.38383871424989
-Median of h1_mbp_min is  77.0
-Standard Deviation of h1_mbp_min is  25.49953791967696
+Mean of h1_mbp_min is  79.4003903481513
+Median of h1_mbp_min is  78.0
+Standard Deviation of h1_mbp_min is  18.900662846960206
 
-Mean of h1_mbp_noninvasive_max is  82.52189983971738
-Median of h1_mbp_noninvasive_max is  87.0
-Standard Deviation of h1_mbp_noninvasive_max is  33.60377920800714
+Mean of h1_mbp_noninvasive_max is  91.69158679794576
+Median of h1_mbp_noninvasive_max is  90.0
+Standard Deviation of h1_mbp_noninvasive_max is  20.09125890713507
 
-Mean of h1_mbp_noninvasive_min is  71.81425752074406
-Median of h1_mbp_noninvasive_min is  76.0
-Standard Deviation of h1_mbp_noninvasive_min is  30.006242604173835
+Mean of h1_mbp_noninvasive_min is  79.72325079323542
+Median of h1_mbp_noninvasive_min is  79.0
+Standard Deviation of h1_mbp_noninvasive_min is  18.792310254749058
 
-Mean of h1_resprate_max is  21.55836141005092
+Mean of h1_resprate_max is  22.65450372357245
 Median of h1_resprate_max is  21.0
-Standard Deviation of h1_resprate_max is  8.773470584510365
+Standard Deviation of h1_resprate_max is  7.439281418198682
 
-Mean of h1_resprate_min is  16.393859103943825
+Mean of h1_resprate_min is  17.21202555799069
 Median of h1_resprate_min is  16.0
-Standard Deviation of h1_resprate_min is  6.966295763490135
+Standard Deviation of h1_resprate_min is  6.013233293892961
 
-Mean of h1_spo2_max is  93.57071516578893
+Mean of h1_spo2_max is  98.0391547545059
 Median of h1_spo2_max is  99.0
-Standard Deviation of h1_spo2_max is  20.69986798233587
+Standard Deviation of h1_spo2_max is  3.194805376122655
 
-Mean of h1_spo2_min is  90.83136523720738
+Mean of h1_spo2_min is  95.15889241437964
 Median of h1_spo2_min is  96.0
-Standard Deviation of h1_spo2_min is  20.889484722004873
+Standard Deviation of h1_spo2_min is  6.572550204639359
 
-Mean of h1_sysbp_max is  128.00106855080523
-Median of h1_sysbp_max is  129.0
-Standard Deviation of h1_sysbp_max is  37.430343525589926
+Mean of h1_sysbp_max is  133.20942505424532
+Median of h1_sysbp_max is  131.0
+Standard Deviation of h1_sysbp_max is  27.289916910593014
 
-Mean of h1_sysbp_min is  111.7807835312333
-Median of h1_sysbp_min is  113.0
-Standard Deviation of h1_sysbp_min is  34.456820193312346
+Mean of h1_sysbp_min is  116.35720126917667
+Median of h1_sysbp_min is  115.0
+Standard Deviation of h1_sysbp_min is  26.25818360542134
 
-Mean of h1_sysbp_noninvasive_max is  122.40456641915542
-Median of h1_sysbp_noninvasive_max is  127.0
-Standard Deviation of h1_sysbp_noninvasive_max is  44.81605628555326
+Mean of h1_sysbp_noninvasive_max is  133.09034160915027
+Median of h1_sysbp_noninvasive_max is  131.0
+Standard Deviation of h1_sysbp_noninvasive_max is  27.147249534171184
 
-Mean of h1_sysbp_noninvasive_min is  107.22062303054092
-Median of h1_sysbp_noninvasive_min is  112.0
-Standard Deviation of h1_sysbp_noninvasive_min is  40.649088745516714
+Mean of h1_sysbp_noninvasive_min is  116.52092396933914
+Median of h1_sysbp_noninvasive_min is  115.0
+Standard Deviation of h1_sysbp_noninvasive_min is  26.121057169140034
 
-Mean of d1_glucose_max is  163.5804520624121
-Median of d1_glucose_max is  145.0
-Standard Deviation of d1_glucose_max is  94.06276176864355
+Mean of d1_glucose_max is  174.65959024347694
+Median of d1_glucose_max is  151.0
+Standard Deviation of d1_glucose_max is  85.45760295371248
 
-Mean of d1_glucose_min is  107.13867172592762
-Median of d1_glucose_min is  105.0
-Standard Deviation of d1_glucose_min is  46.3466244652367
+Mean of d1_glucose_min is  114.51173770348805
+Median of d1_glucose_min is  108.0
+Standard Deviation of d1_glucose_min is  37.75848364106408
 
-Mean of d1_potassium_max is  3.807256877432861
-Median of d1_potassium_max is  4.1
-Standard Deviation of d1_potassium_max is  1.4458707344699506
+Mean of d1_potassium_max is  4.251342830351204
+Median of d1_potassium_max is  4.2
+Standard Deviation of d1_potassium_max is  0.6509996109561261
 
-Mean of d1_potassium_min is  3.523444004666732
-Median of d1_potassium_min is  3.8
-Standard Deviation of d1_potassium_min is  1.3227788611411992
+Mean of d1_potassium_min is  3.9355718382344915
+Median of d1_potassium_min is  3.9
+Standard Deviation of d1_potassium_min is  0.5654533889591206
 
-Mean of apache_4a_hospital_death_prob is  0.07926673426886048
-Median of apache_4a_hospital_death_prob is  0.04
-Standard Deviation of apache_4a_hospital_death_prob is  0.2378558089657907
-
-Mean of apache_4a_icu_death_prob is  0.040146107967245645
-Median of apache_4a_icu_death_prob is  0.02
-Standard Deviation of apache_4a_icu_death_prob is  0.20807929026895178
-
-Mean of aids is  0.0008504792123254064
+Mean of aids is  0.0008559310021480052
 Median of aids is  0.0
-Standard Deviation of aids is  0.029150731773266735
+Standard Deviation of aids is  0.02919729070409275
 
-Mean of cirrhosis is  0.015570311733342055
+Mean of cirrhosis is  0.01576657616695561
 Median of cirrhosis is  0.0
-Standard Deviation of cirrhosis is  0.12380647905671156
+Standard Deviation of cirrhosis is  0.12417740196837221
 
-Mean of diabetes_mellitus is  0.22343615408938755
+Mean of diabetes_mellitus is  0.22519708220208695
 Median of diabetes_mellitus is  0.0
-Standard Deviation of diabetes_mellitus is  0.41655051441867086
+Standard Deviation of diabetes_mellitus is  0.4169352160927295
 
-Mean of hepatic_failure is  0.012888031140623467
+Mean of hepatic_failure is  0.01300797051672064
 Median of hepatic_failure is  0.0
-Standard Deviation of hepatic_failure is  0.11279214737750604
+Standard Deviation of hepatic_failure is  0.11304394219868878
 
-Mean of immunosuppression is  0.02596142313521529
+Mean of immunosuppression is  0.026119525040070656
 Median of immunosuppression is  0.0
-Standard Deviation of immunosuppression is  0.1590210783842738
+Standard Deviation of immunosuppression is  0.1592435901315261
 
-Mean of leukemia is  0.0070110017118620045
+Mean of leukemia is  0.007021905291507202
 Median of leukemia is  0.0
-Standard Deviation of leukemia is  0.08343814161847916
+Standard Deviation of leukemia is  0.08346988867504934
 
-Mean of lymphoma is  0.004099745946594267
+Mean of lymphoma is  0.004121553105884662
 Median of lymphoma is  0.0
-Standard Deviation of lymphoma is  0.06389822023259381
+Standard Deviation of lymphoma is  0.06398208313500542
 
-Mean of solid_tumor_with_metastasis is  0.02047692257368094
+Mean of solid_tumor_with_metastasis is  0.020678638797117094
 Median of solid_tumor_with_metastasis is  0.0
-Standard Deviation of solid_tumor_with_metastasis is  0.14162569300029837
+Standard Deviation of solid_tumor_with_metastasis is  0.1419520845015192
 
 Mean of hospital_death is  0.08630183289173836
 Median of hospital_death is  0.0
 Standard Deviation of hospital_death is  0.28081076605005306
-
-Mean of icu_admit_source_0 is  0.0012212009202621221
-Median of icu_admit_source_0 is  0.0
-Standard Deviation of icu_admit_source_0 is  0.03492453131997804
 
 Mean of icu_admit_source_Accident & Emergency is  0.5894475156193778
 Median of icu_admit_source_Accident & Emergency is  1.0
@@ -313,10 +301,6 @@ Standard Deviation of icu_admit_source_Other Hospital is  0.15827152898163105
 Mean of icu_admit_source_Other ICU is  0.009366174915224668
 Median of icu_admit_source_Other ICU is  0.0
 Standard Deviation of icu_admit_source_Other ICU is  0.09632523476275724
-
-Mean of ethnicity_0 is  0.015210493605050538
-Median of ethnicity_0 is  0.0
-Standard Deviation of ethnicity_0 is  0.12238994165088908
 
 Mean of ethnicity_African American is  0.10409647487270071
 Median of ethnicity_African American is  0.0
@@ -341,10 +325,6 @@ Standard Deviation of ethnicity_Native American is  0.09229458716268588
 Mean of ethnicity_Other/Unknown is  0.047692257368093946
 Median of ethnicity_Other/Unknown is  0.0
 Standard Deviation of ethnicity_Other/Unknown is  0.21311546442293508
-
-Mean of gender_0 is  0.00027258949112993794
-Median of gender_0 is  0.0
-Standard Deviation of gender_0 is  0.016508123985562347
 
 Mean of gender_F is  0.460338229040594
 Median of gender_F is  0.0
@@ -385,10 +365,6 @@ Standard Deviation of icu_type_Neuro ICU is  0.2769162961186481
 Mean of icu_type_SICU is  0.05679674637183387
 Median of icu_type_SICU is  0.0
 Standard Deviation of icu_type_SICU is  0.23145509303985795
-
-Mean of apache_3j_bodysystem_0 is  0.018121749370318276
-Median of apache_3j_bodysystem_0 is  0.0
-Standard Deviation of apache_3j_bodysystem_0 is  0.1333924494992842
 
 Mean of apache_3j_bodysystem_Cardiovascular is  0.32709648577628037
 Median of apache_3j_bodysystem_Cardiovascular is  0.0
@@ -433,10 +409,6 @@ Standard Deviation of apache_3j_bodysystem_Sepsis is  0.3341005651801148
 Mean of apache_3j_bodysystem_Trauma is  0.041891552996848866
 Median of apache_3j_bodysystem_Trauma is  0.0
 Standard Deviation of apache_3j_bodysystem_Trauma is  0.20034242791356352
-
-Mean of apache_2_bodysystem_0 is  0.018121749370318276
-Median of apache_2_bodysystem_0 is  0.0
-Standard Deviation of apache_2_bodysystem_0 is  0.1333924494992842
 
 Mean of apache_2_bodysystem_Cardiovascular is  0.42323334750798686
 Median of apache_2_bodysystem_Cardiovascular is  0.0
